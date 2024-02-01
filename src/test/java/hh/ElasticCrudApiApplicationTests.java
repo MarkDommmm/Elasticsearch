@@ -1,4 +1,4 @@
-package com.example.demo.elasticcrudapi;
+package hh;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,7 @@ class ElasticCrudApiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+
+
 
 }
